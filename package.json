@@ -1,4 +1,5 @@
 {
+  "hostname":"https://parking-chain.vercel.app/",
   "name": "parking",
   "version": "0.1.0",
   "private": true,
